@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content xmlns:tools="http://schemas.android.com/tools">
+    <!-- Excluir archivos o carpetas específicas de la copia de seguridad -->
+    <exclude domain="file" path="cache/"
+        tools:ignore="FullBackupContent" />
+    <exclude domain="database" path="temp.db"
+        tools:ignore="FullBackupContent" />
+
+    <!-- Incluir datos importantes en la copia de seguridad -->
+    <include domain="file" path="important_data/" />
+</full-backup-content>

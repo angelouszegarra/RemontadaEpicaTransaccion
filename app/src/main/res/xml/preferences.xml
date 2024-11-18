@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- preferences.xml -->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreferenceCompat
+        android:key="pref_enable_notifications"
+        android:title="Habilitar notificaciones"
+        android:summary="Activa o desactiva las notificaciones"
+        android:defaultValue="true" />
+
+    <ListPreference
+        android:key="pref_theme"
+        android:title="Tema de la aplicación"
+        android:summary="Selecciona un tema para la aplicación"
+        android:defaultValue="light"
+        android:entries="@array/theme_options"
+        android:entryValues="@array/theme_values" />
+
+    <Preference
+        android:key="pref_about"
+        android:title="Acerca de"
+        android:summary="Información sobre la aplicación" />
+
+</PreferenceScreen>

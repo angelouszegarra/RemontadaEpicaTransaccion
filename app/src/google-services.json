@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897655065422",
+    "project_id": "transaciones-internacionales",
+    "storage_bucket": "transaciones-internacionales.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897655065422:android:aba978d0f3177731e62c1f",
+        "android_client_info": {
+          "package_name": "com.example.remontadaepicatransaccion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCezg2Xzvq-SHOCbeNkKqEigHz36ruBWU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

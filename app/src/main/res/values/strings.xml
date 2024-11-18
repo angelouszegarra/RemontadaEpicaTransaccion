@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">remontada  epica transaccion</string>
+    <string name="enviar_correo_de_recuperaci_n">Enviar Correo de Recuperación</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="recupera_tu_contrase_a">Recupera tu Contraseña</string>
+    <string name="gestiona_tus_tarjetas">Gestiona tus Tarjetas</string>
+    <string name="tipo_de_tarjeta">Tipo de Tarjeta</string>
+    <string name="n_mero_de_tarjeta">Número de Tarjeta</string>
+    <string name="calculadora_de_tarifas">Calculadora de Tarifas</string>
+    <string name="monto_a_transferir">Monto a transferir</string>
+    <string name="tarifa_estimada_0_00">Tarifa estimada: $0.00</string>
+    <string name="calcular_tarifa">Calcular Tarifa</string>
+    <string name="selecciona_una_moneda">Selecciona una Moneda</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="app_logo">My App Logo</string>
+    <string name="login_title">Login</string>
+    <string name="phone_number_hint">Enter your phone number</string>
+    <string name="send_code">Send Code</string>
+    <string name="verification_code_hint">Enter verification code</string>
+    <string name="verify_code">Verify Code</string>
+</resources>
